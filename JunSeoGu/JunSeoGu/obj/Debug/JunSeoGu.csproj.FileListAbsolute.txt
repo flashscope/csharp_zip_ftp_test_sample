@@ -1,0 +1,9 @@
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\bin\Debug\JunSeoGu.exe.config
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\bin\Debug\JunSeoGu.exe
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\bin\Debug\JunSeoGu.pdb
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\obj\Debug\JunSeoGu.csprojResolveAssemblyReference.cache
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\obj\Debug\JunSeoGu.Form1.resources
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\obj\Debug\JunSeoGu.Properties.Resources.resources
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\obj\Debug\JunSeoGu.csproj.GenerateResource.Cache
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\obj\Debug\JunSeoGu.exe
+c:\users\flashscope\documents\visual studio 2013\Projects\JunSeoGu\JunSeoGu\obj\Debug\JunSeoGu.pdb

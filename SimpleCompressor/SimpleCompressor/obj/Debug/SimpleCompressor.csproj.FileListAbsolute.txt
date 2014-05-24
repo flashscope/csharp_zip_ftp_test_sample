@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleCompressor\SimpleCompressor\bin\Debug\SimpleCompressor.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleCompressor\SimpleCompressor\bin\Debug\SimpleCompressor.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleCompressor\SimpleCompressor\bin\Debug\SimpleCompressor.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleCompressor\SimpleCompressor\obj\Debug\SimpleCompressor.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleCompressor\SimpleCompressor\obj\Debug\SimpleCompressor.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleCompressor\SimpleCompressor\obj\Debug\SimpleCompressor.csprojResolveAssemblyReference.cache
+C:\Users\flashscope\Desktop\NEXT\GAME\SimpleCompressor\SimpleCompressor\bin\Debug\SimpleCompressor.exe.config
+C:\Users\flashscope\Desktop\NEXT\GAME\SimpleCompressor\SimpleCompressor\obj\Debug\SimpleCompressor.exe
+C:\Users\flashscope\Desktop\NEXT\GAME\SimpleCompressor\SimpleCompressor\obj\Debug\SimpleCompressor.pdb
+C:\Users\flashscope\Desktop\NEXT\GAME\SimpleCompressor\SimpleCompressor\bin\Debug\SimpleCompressor.exe
+C:\Users\flashscope\Desktop\NEXT\GAME\SimpleCompressor\SimpleCompressor\bin\Debug\SimpleCompressor.pdb
+C:\Users\flashscope\Desktop\NEXT\GAME\SimpleCompressor\SimpleCompressor\obj\Debug\SimpleCompressor.csprojResolveAssemblyReference.cache
